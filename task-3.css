@@ -1,0 +1,30 @@
+body {
+	margin:0px;
+	padding:0px;
+	
+}
+
+img {
+	float:right;
+	padding:10px;
+	border-radius:50%;
+	position:relative;
+
+}
+
+h2 {
+	color:#0343fc;
+	margin:10px;
+}
+
+div {
+	background-color:#f4f4f4;
+	padding-top:15px;
+	
+}
+
+
+
+p{
+	margin:10px;
+}
